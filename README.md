@@ -1,4 +1,4 @@
-# assignment2.3
+# assignment1.5
 Create an m x n matrix with replicate(m, rnorm(n)) with m=10 column vectors of n=10 elements each, 
 
 constructed with rnorm(n), which creates random normal numbers. 
